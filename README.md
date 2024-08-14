@@ -39,7 +39,7 @@ keeper-app/
 |   |   |   └── Note.js           # Mongoose schema for notes
 │   │   └── notes.js              # API routes for CRUD operations on notes
 │   ├── server.js                 # Entry point for the backend server
-│   └── .env                      # Environment variables (e.g., MongoDB URI)
+│   └── .env                      # Environment variables (e.g., MongoDB URI)(Please Add your own file)
 │
 ├── Frontend/
 │   ├── public/
@@ -50,8 +50,9 @@ keeper-app/
 │   │   │   ├── Note.jsx          # Note component
 │   │   │   ├── CreateArea.jsx    # Form to create new notes
 │   │   └── App.js                # Main React component
+|   |   └── Index.js              # Main Index File
 │   ├── package.json              # Frontend dependencies and scripts
-│   └── .env                      # Environment variables (e.g., API base URL)
+│                        
 │
 └── README.md                     # Project documentation
 ```
