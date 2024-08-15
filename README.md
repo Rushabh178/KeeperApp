@@ -48,7 +48,7 @@ keeper-app/
 │   │   │   ├── Header.jsx        # Header component
 │   │   │   ├── Footer.jsx        # Footer component
 │   │   │   ├── Note.jsx          # Note component
-│   │   │   ├── CreateArea.jsx    # Form to create new notes
+│   │   │   └── CreateArea.jsx    # Form to create new notes
 │   │   └── App.js                # Main React component
 |   |   └── Index.js              # Main Index File
 │   └──package.json               # Frontend dependencies and scripts
