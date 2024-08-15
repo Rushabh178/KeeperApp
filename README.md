@@ -51,9 +51,8 @@ keeper-app/
 │   │   │   ├── CreateArea.jsx    # Form to create new notes
 │   │   └── App.js                # Main React component
 |   |   └── Index.js              # Main Index File
-│   ├── package.json              # Frontend dependencies and scripts
+│   └──package.json               # Frontend dependencies and scripts
 │                        
-│
 └── README.md                     # Project documentation
 ```
 
